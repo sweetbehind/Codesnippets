@@ -1,3 +1,3 @@
-algorithmcode
+Codesnippets
 =============
-找工作需要的代码
+一些代码片段
