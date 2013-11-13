@@ -3,9 +3,9 @@
 *
 * Makefile
 *   compile
-*       -I/path/to/json/include/path/
+*       -I/path/to/json/include/
 *   link
-*       -L/path/to/json/lib/path/ -ljson
+*       -L/path/to/json/lib/ -ljson
 */
 
 #include <iostream>
